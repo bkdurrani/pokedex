@@ -1,0 +1,6 @@
+framework module Pods_pokedax_by_devslopes {
+  umbrella header "Pods-pokedax-by-devslopes-umbrella.h"
+
+  export *
+  module * { export * }
+}
